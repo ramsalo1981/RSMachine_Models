@@ -1,0 +1,15 @@
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\RSMachine_Models.deps.json
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\RSMachine_Models.runtimeconfig.json
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\RSMachine_Models.runtimeconfig.dev.json
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\RSMachine_Models.dll
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\ref\RSMachine_Models.dll
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\bin\Debug\net5.0\RSMachine_Models.pdb
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.csprojAssemblyReference.cache
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.AssemblyInfo.cs
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.dll
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\ref\RSMachine_Models.dll
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.pdb
+C:\Users\ramis\Desktop\asp udemy\RSMachineProject\RSMachine_Models\obj\Debug\net5.0\RSMachine_Models.genruntimeconfig.cache
